@@ -6,7 +6,6 @@ public class GameStart {
 		// TODO Auto-generated method stub
 		
 		IntelligenceCenter infoCenterA = new IntelligenceCenter();
-		
 		Scene sceneA = new Scene() {
 			@Override
 			public Events getEvent(int cnt) {
